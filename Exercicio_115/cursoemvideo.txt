@@ -1,0 +1,3 @@
+Adilson; 24.0
+Carlos; 60.0
+Patricia; 16.0
